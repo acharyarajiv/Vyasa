@@ -1,0 +1,36 @@
+{
+	"name": "Vyasa",
+	"version": "0.1.0",
+	"homepage": "https://github.com/FlyinPanda/Vyasa",
+	"authors": [
+    "Shashanka Nataraj <shashankan.10@gmail.com>"
+  ],
+	"description": "A webpage to allow writers to visualize their stories and write them down in an integrated workflow.",
+	"main": "index.html",
+	"moduleType": [
+    "node"
+  ],
+	"keywords": [
+    "Vyasa",
+    "book",
+    "write",
+    "publish"
+  ],
+	"license": "MIT",
+	"ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+		"jquery": "2.x",
+		"bootstrap": "3.x",
+		"font-awesome": "4.x",
+		"ace-builds": "1.x"
+	},
+	"devDependencies": {
+
+	}
+}
